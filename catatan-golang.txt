@@ -1,0 +1,24 @@
+Golang
+	Dibuat oleh google, menggunakan bahasa C
+	Di open source kan 2009
+	Go-lang populer sejak digunakan untuk membuat docker pada 2011. Contoh dr golang: Kubernetes
+	Saat ini populer untuk backend API di Microservices
+Kenapa Golang?
+	Sangat sederhana
+	Mendukung concurrency programming (multi processor)
+	Naik daun
+	Tidak perlu management memory manual (mendukung garbage collector)
+SDK
+	golang.org
+	buka cmd
+	cek pake go version
+Proses Development Program Go-lang
+	Go Compiler->(compile file)-> main.go
+	(produce binary file)->main
+	
+Program Hello World
+	Untuk kompilasi
+		go build namafile.go
+	Untuk running ./namafile
+	Menjalankan tampa kompilasi
+		go run namafile.go
