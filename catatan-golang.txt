@@ -22,3 +22,34 @@ Program Hello World
 	Untuk running ./namafile
 	Menjalankan tampa kompilasi
 		go run namafile.go
+		
+3. Tipe Data Number
+	1. Integer
+	2. Floating point
+	
+4. Boolean
+	benar atau salah, kata kunci bool
+	true - false
+	
+5. String
+	Kumpulan karakter
+	Bisa 0 - tidak hingga
+	Direpresentasikan dengan string
+	Selalu diawali dengan " dan "
+	Function untuk String
+		len("string") //menghitung jumlah karakter
+		"string"[number] //mengambil karakter pd posisi yg ditentukan
+		
+6. Variabel
+	Tempat untuk menyimpan data
+	Di Golang, variabel hanya bisa menyimpan tipe data yg sama
+	Bisa pake var
+	:= sama dengan var
+	Deklarasi multiple variabel
+		membuat variabel sekaligus banyak, kode bisa lebih mudah dibaca dan bagus
+		
+7. Constant
+	Variabel yg nilainya tdk bisa diubah2
+	Saat membuat wajib langsung mengisi datanya
+	Deklarasi multiple constant
+		sama kyk variabel

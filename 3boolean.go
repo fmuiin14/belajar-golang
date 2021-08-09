@@ -7,5 +7,6 @@ import "fmt"
 // untuk mencetak tulisan
 
 func main() {
-	fmt.Println("Hello World")
+	fmt.Println("Benar = ", true)
+	fmt.Println("Salah = ", false)
 }

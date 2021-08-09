@@ -7,5 +7,7 @@ import "fmt"
 // untuk mencetak tulisan
 
 func main() {
-	fmt.Println("Hello World")
+	fmt.Println("Satu = ", 1)
+	fmt.Println("Dua = ", 2)
+	fmt.Println("Tiga Koma Lima = ", 3.5)
 }
